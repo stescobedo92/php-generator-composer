@@ -1,6 +1,6 @@
 {
   "name": "php-generator-composer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "This is an example generator composer php in javascript.",
   "license": "MIT",
   "main": "app/index.js",
